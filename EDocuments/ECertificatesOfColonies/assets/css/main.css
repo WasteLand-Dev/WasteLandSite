@@ -9,6 +9,14 @@ body {
     color: #333;
 }
 
+.redtext {
+    color: rgb(255, 0, 0);
+}
+
+.whitetext {
+    color: rgb(255, 255, 255);
+}
+
 *,
 *:before,
 *:after {
@@ -285,5 +293,3 @@ h1, h2, h3, h4, h5, h6 {
     -webkit-background-size: cover;
     background-size: cover;
 }
-
-

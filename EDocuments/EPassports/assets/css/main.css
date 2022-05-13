@@ -13,6 +13,10 @@ body {
     color: rgb(255, 0, 0);
 }
 
+.whitetext {
+    color: rgb(255, 255, 255);
+}
+
 *,
 *:before,
 *:after {

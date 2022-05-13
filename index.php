@@ -26,9 +26,6 @@
 </head>
 <body>
 
-<!-- Library -->
-<script src="assets/js/particles.min.js"></script>
-
 <!-- Code -->
 
 <header class="header">
