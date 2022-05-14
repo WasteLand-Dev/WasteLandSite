@@ -19,6 +19,7 @@
     <meta property="og:image" content="https://www.wlorigin.cf/images/logo2.webp">
     <!-- Fonts and css -->
     <link rel="stylesheet" href="assets/css/main.css?v=24">
+    <link rel="stylesheet" href="assets/css/pages.css?v=4">
     <link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Montserrat:400,700&amp;subset=cyrillic-ext" rel="stylesheet">
     <link href="https://allfont.ru/allfont.css?fonts=furore" rel="stylesheet" type="text/css" />
     <!-- Title -->
