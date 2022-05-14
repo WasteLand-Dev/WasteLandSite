@@ -19,7 +19,7 @@
     <meta property="og:description" content="WasteLand Origin community">
     <meta property="og:image" content="https://www.wlorigin.cf/images/logo2.webp">
     <!-- Fonts and css -->
-    <link rel="stylesheet" href="assets/css/main.css?v=24">
+    <link rel="stylesheet" href="assets/css/main.css?v=29">
     <link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Montserrat:400,700&amp;subset=cyrillic-ext" rel="stylesheet">
     <link href="https://allfont.ru/allfont.css?fonts=furore" rel="stylesheet" type="text/css" />
     <!-- Title -->
@@ -107,6 +107,8 @@
         </div>
     </div>
 </div>
-
+<div class="footer">
+    <h2 href="privacy.html" class="text_orange">Copyright© 2022 WasteLand. </h2>
+</div>
 </body>
 </html>
