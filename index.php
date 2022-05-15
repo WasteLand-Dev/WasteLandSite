@@ -1,10 +1,3 @@
-<?php
-    $value1 = "Main";
-    $value2 = "Windows/Other";
-    setcookie("Page", $value1);
-    setcookie("User", $value2, time()+3600);  // срок действия 1 час
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,28 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="author" content="SpiritOTHawk">
-    <!-- Preview -->
     <meta property="og:title" content="WasteLand Official site">
     <meta property="og:site_name" content="WasteLand">
     <meta property="og:url" content="https://www.wlorigin.cf/">
     <meta property="og:description" content="WasteLand Origin community">
     <meta property="og:image" content="https://www.wlorigin.cf/images/logo2.webp">
-    <!-- Fonts and css -->
-    <link rel="stylesheet" href="assets/css/main.css?v=29">
+    <link rel="stylesheet" href="assets/css/main.css?v=30">
     <link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Montserrat:400,700&amp;subset=cyrillic-ext" rel="stylesheet">
     <link href="https://allfont.ru/allfont.css?fonts=furore" rel="stylesheet" type="text/css" />
-    <!-- Title -->
     <title>WasteLand</title>
 </head>
 <body>
-
-<!-- Code -->
 
 <header class="header">
     <div class="container">
         <div class="header__inner">
             <div class="header__logo"><div class="text_orange_big">WasteLand [Beta Site]</div></div>
-
             <nav class="nav">
                 <a class="nav__link active" href="#">About</a>
                 <a class="nav__link" href="buy.html">Buy Pass</a>
@@ -46,13 +33,11 @@
     </div>
 </header>
 
-
 <div class="intro">
     <div class="container">
         <div class="intro__inner">
             <h2 class="intro__suptitle">WasteLand</h2>
             <h1 class="intro__title">Best Vanilla - Political RP Server</h1>
-
             <a class="btn" href="server.html">Server perfomance</a>
         </div>
     </div>
@@ -102,7 +87,6 @@
     <h1 class="text_white">Convenient world</h1>
     <h1 class="text_white">We present you our best server project, we hope you enjoy it.</h1>
 </p>
-
             </div>
         </div>
     </div>
