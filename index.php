@@ -92,7 +92,7 @@
     </div>
 </div>
 <div class="footer">
-    <h2 href="privacy.html" class="text_orange">Copyright© 2022 WasteLand. https://github.com/WasteLand-Dev</h2>
+    <h2 href="privacy.html" class="text_orange">Copyright© 2022 WasteLand</h2>
 </div>
 </body>
 </html>
