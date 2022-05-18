@@ -22,11 +22,12 @@
         <div class="header__inner">
             <div class="header__logo"><div class="text_orange_big">WasteLand [Beta Site]</div></div>
             <nav class="nav">
-                <a class="nav__link active" href="#">About</a>
+                <a class="nav__link active" href="https://github.com/WasteLand-Dev/WasteLandSite">src</a>
                 <a class="nav__link" href="buy.html">Buy Pass</a>
                 <a class="nav__link" href="buy_premium.html">Premium</a>
                 <a class="nav__link" href="documents.html">Docs</a>
                 <a class="nav__link" href="https://discord.com/invite/UBaauaN">Discord</a>
+                <a class="nav__link" href="https://t.me/wlorigin">Telegram</a>
                 <a class="nav__link" href="contact.html">Contact</a>
             </nav>
         </div>
