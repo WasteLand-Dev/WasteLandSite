@@ -34,16 +34,8 @@ h1, h2, h3, h4, h5, h6 {
     background-size: cover;
 }
 
-.intro2 {
+.furore {
     font-family: 'Furore', arial;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    width: 100%;
-    height: 100vh;
-    background: url("/images/bg3main2.webp");
-    -webkit-background-size: cover;
-    background-size: cover;
 }
 
 .intro3 {
