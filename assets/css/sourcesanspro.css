@@ -8,12 +8,19 @@
     line-height: 1.45;
 }
 
+.ssp_white_big {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 1.45;
+}
+
 .ssp_orange {
     font-family: 'Source Sans Pro', sans-serif;
     color: rgb(249, 186, 68);
     font-size: 19px;
     font-weight: 500;
-    text-transform: uppercase;
     line-height: 1;
 }
 
@@ -22,6 +29,5 @@
     color: rgb(249, 186, 68);
     font-size: 25px;
     font-weight: 500;
-    text-transform: uppercase;
     line-height: 1;
 }
