@@ -1,0 +1,53 @@
+{
+	"formatVersion": 1,
+	"appVersion": "0.59.4",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "wAnRJ4hUVYHA",
+			"notePath": [
+				"wAnRJ4hUVYHA"
+			],
+			"title": "WasteLand Official Wiki",
+			"notePosition": 1000000009,
+			"prefix": null,
+			"isExpanded": true,
+			"type": "text",
+			"mime": "text/html",
+			"attributes": [],
+			"format": "html",
+			"dirFileName": "WasteLand Official Wiki",
+			"children": [
+				{
+					"isClone": false,
+					"noteId": "wtHy0rvNQti1",
+					"notePath": [
+						"wAnRJ4hUVYHA",
+						"wtHy0rvNQti1"
+					],
+					"title": "Главная страница",
+					"notePosition": 10,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "Главная страница.html"
+				}
+			]
+		},
+		{
+			"noImport": true,
+			"dataFileName": "navigation.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "index.html"
+		},
+		{
+			"noImport": true,
+			"dataFileName": "style.css"
+		}
+	]
+}
