@@ -42,15 +42,15 @@
 						"wAnRJ4hUVYHA",
 						"BK7N9Ej5zWFd"
 					],
-					"title": "modpack",
+					"title": "Сборка",
 					"notePosition": 20,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
 					"format": "html",
-					"dirFileName": "modpack",
+					"dirFileName": "Сборка",
 					"children": [
 						{
 							"isClone": false,
@@ -161,6 +161,79 @@
 					"attributes": [],
 					"format": "html",
 					"dataFileName": "О нас.html"
+				},
+				{
+					"isClone": false,
+					"noteId": "Cr9qGotEqTv0",
+					"notePath": [
+						"wAnRJ4hUVYHA",
+						"Cr9qGotEqTv0"
+					],
+					"title": "Документы",
+					"notePosition": 50,
+					"prefix": null,
+					"isExpanded": true,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dirFileName": "Документы",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "sdDM6RBJpShM",
+							"notePath": [
+								"wAnRJ4hUVYHA",
+								"Cr9qGotEqTv0",
+								"sdDM6RBJpShM"
+							],
+							"title": "Правила",
+							"notePosition": 0,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "Правила.html"
+						},
+						{
+							"isClone": false,
+							"noteId": "hNepJJfgn6I8",
+							"notePath": [
+								"wAnRJ4hUVYHA",
+								"Cr9qGotEqTv0",
+								"hNepJJfgn6I8"
+							],
+							"title": "Пример свидетельства о колонии крестьян",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "Пример свидетельства о колонии.html"
+						},
+						{
+							"isClone": false,
+							"noteId": "URfJhowwiknt",
+							"notePath": [
+								"wAnRJ4hUVYHA",
+								"Cr9qGotEqTv0",
+								"URfJhowwiknt"
+							],
+							"title": "Пример паспортов",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "Пример паспортов.html"
+						}
+					]
 				}
 			]
 		},
