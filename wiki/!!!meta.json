@@ -28,12 +28,139 @@
 					"title": "Главная страница",
 					"notePosition": 10,
 					"prefix": null,
-					"isExpanded": false,
+					"isExpanded": true,
 					"type": "text",
 					"mime": "text/html",
 					"attributes": [],
 					"format": "html",
 					"dataFileName": "Главная страница.html"
+				},
+				{
+					"isClone": false,
+					"noteId": "BK7N9Ej5zWFd",
+					"notePath": [
+						"wAnRJ4hUVYHA",
+						"BK7N9Ej5zWFd"
+					],
+					"title": "modpack",
+					"notePosition": 20,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dirFileName": "modpack",
+					"children": [
+						{
+							"isClone": false,
+							"noteId": "Ufh8iGZCN01H",
+							"notePath": [
+								"wAnRJ4hUVYHA",
+								"BK7N9Ej5zWFd",
+								"Ufh8iGZCN01H"
+							],
+							"title": "FAQ",
+							"notePosition": 10,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "FAQ.html"
+						},
+						{
+							"isClone": false,
+							"noteId": "ChH3U1FbCCys",
+							"notePath": [
+								"wAnRJ4hUVYHA",
+								"BK7N9Ej5zWFd",
+								"ChH3U1FbCCys"
+							],
+							"title": "Скачать",
+							"notePosition": 20,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [],
+							"format": "html",
+							"dataFileName": "Скачать.html"
+						},
+						{
+							"isClone": false,
+							"noteId": "EeqC0mLfqdm1",
+							"notePath": [
+								"wAnRJ4hUVYHA",
+								"BK7N9Ej5zWFd",
+								"EeqC0mLfqdm1"
+							],
+							"title": "Установка",
+							"notePosition": 30,
+							"prefix": null,
+							"isExpanded": false,
+							"type": "text",
+							"mime": "text/html",
+							"attributes": [
+								{
+									"type": "relation",
+									"name": "imageLink",
+									"value": "ttf46Tj4UPBl",
+									"isInheritable": false,
+									"position": 1
+								}
+							],
+							"format": "html",
+							"dataFileName": "Установка.html",
+							"dirFileName": "Установка",
+							"children": [
+								{
+									"isClone": false,
+									"noteId": "ttf46Tj4UPBl",
+									"notePath": [
+										"wAnRJ4hUVYHA",
+										"BK7N9Ej5zWFd",
+										"EeqC0mLfqdm1",
+										"ttf46Tj4UPBl"
+									],
+									"title": "image.png",
+									"notePosition": 10,
+									"prefix": null,
+									"isExpanded": false,
+									"type": "image",
+									"mime": "image/jpg",
+									"attributes": [
+										{
+											"type": "label",
+											"name": "originalFileName",
+											"value": "image.png",
+											"isInheritable": false,
+											"position": 1000
+										}
+									],
+									"dataFileName": "image.png"
+								}
+							]
+						}
+					]
+				},
+				{
+					"isClone": false,
+					"noteId": "7bwWfMp40KzU",
+					"notePath": [
+						"wAnRJ4hUVYHA",
+						"7bwWfMp40KzU"
+					],
+					"title": "О нас",
+					"notePosition": 30,
+					"prefix": null,
+					"isExpanded": false,
+					"type": "text",
+					"mime": "text/html",
+					"attributes": [],
+					"format": "html",
+					"dataFileName": "О нас.html"
 				}
 			]
 		},
