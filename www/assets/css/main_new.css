@@ -125,6 +125,14 @@ h1, h2, h3, h4, h5, h6 {
     text-transform: uppercase;
     line-height: 1;
 }
+.text_green {
+    font-family: 'Share Tech';
+    color: #98FF98;
+    font-size: 19px;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 1;
+}
 @font-face {
     font-family: 'Share Tech';
     font-style: normal;
