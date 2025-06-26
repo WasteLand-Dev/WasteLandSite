@@ -67,10 +67,10 @@ h1, h2, h3, h4, h5, h6 {
     align-items: center;
 }
 .nav {
-    font-size: 18px;
+    font-size: 21px;
     text-transform: uppercase;
     background-color: rgba(0, 0, 0, 0.275);
-    border-radius: 20px;
+    border-radius: 23px;
 }
 .nav__link {
     display: inline-block;
