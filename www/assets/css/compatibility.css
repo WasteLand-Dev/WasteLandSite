@@ -44,7 +44,7 @@
 .text_orange_big {
     font-family: 'Share Tech';
     color: rgb(249, 186, 68);
-    font-size: 25px;
+    font-size: 27px;
     font-weight: 500;
     text-transform: uppercase;
     line-height: 1;
@@ -52,7 +52,7 @@
 .text_white {
     font-family: 'Share Tech';
     color: rgb(255, 255, 255);
-    font-size: 19px;
+    font-size: 23px;
     font-weight: 500;
     text-transform: uppercase;
     line-height: 1;
